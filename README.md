@@ -4,7 +4,7 @@
 
 It uses the Useful Sensors Person Detector to find your face and you move back in forth in front of the camera to move to paddle and try to beat the computer.
 
-The game extends the FoamyGuy's [game](https://github.com/FoamyGuy/CircuitPython-Badge-One-Player-Pong) to make it work on an RGB Matrix and work with the Person Detector.
+The game extends the FoamyGuy's CircuitPython [pong game](https://github.com/FoamyGuy/CircuitPython-Badge-One-Player-Pong) to make it work on an RGB Matrix and work with the Person Detector.
 
 ### Required Libraries
 - [Useful Sensors Person Detector Driver](https://github.com/robotastic/CircuitPython_UsefulSensors_PersonDetector)
